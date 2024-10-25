@@ -30,6 +30,7 @@ This is a collection of resources for computer-use agents, including papers and 
 - [ICLR2025 Submission] [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://openreview.net/forum?id=0sr8bS4S2H)
 - [ICLR2025 Submission] [Cradle: Empowering Foundation Agents towards General Computer Control](https://openreview.net/forum?id=aIAFDFpNXz)
 - [ICLR2025 Submission] [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](https://openreview.net/forum?id=moWiYJuSGF)
+- [ICLR2025 Submission] [NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator](https://openreview.net/forum?id=hHF5AayC7O)
 - [ICLR2025 Submission] [Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents](https://openreview.net/forum?id=3Gzz7ZQLiz)
 - [ICLR2025 Submission] [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://openreview.net/forum?id=oWdzUpOlkX)
 - [ICLR2025 Submission] [Digi-Q: Transforming VLMs to Device-Control Agents via Value-Based Offline RL](https://openreview.net/forum?id=CjfQssZtAb)
