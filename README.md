@@ -14,6 +14,10 @@ This is a collection of resources for computer-use agents, including papers and 
 
 ## Blogs
 - [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
+  - [Model Card PDF](https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf)
+  - [Blog](https://www.anthropic.com/news/developing-computer-use)
+  - [GitHub](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
+  - [Doc](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 - [Initial explorations of Anthropic’s new Computer Use capability](https://simonwillison.net/2024/Oct/22/computer-use/)
 
 ## Papers
