@@ -1,6 +1,16 @@
-# Awesome Computer Use
+# Awesome Computer Use Agents
 
-This is a collection of resources, including papers and blogs, on computer use agents. The repository is currently under construction and will be continuously updated. We welcome contributions and feedback as we continue expanding this collection!
+This is a collection of resources for computer-use agents, including papers and blogs. The repository is currently under construction and will be continuously updated. We welcome contributions and feedback as we continue expanding this collection!
+
+## Table of Contents
+
+- [Blogs](#blogs)
+- [Papers](#papers)
+  - [Modeling/Framework](#modelingframework)
+  - [Grounding](#grounding)
+  - [Agent Data](#agent-data)
+  - [Evaluation](#evaluation)
+
 
 ## Blogs
 - [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
