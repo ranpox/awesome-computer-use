@@ -34,6 +34,10 @@ This is a collection of resources for computer-use agents, including papers and 
 - [ICLR2025 Submission] [Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents](https://openreview.net/forum?id=3Gzz7ZQLiz)
 - [ICLR2025 Submission] [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://openreview.net/forum?id=oWdzUpOlkX)
 - [ICLR2025 Submission] [Digi-Q: Transforming VLMs to Device-Control Agents via Value-Based Offline RL](https://openreview.net/forum?id=CjfQssZtAb)
+- [ICLR2025 Submission] [The Impact of Element Ordering on LM Agent Performance](https://openreview.net/forum?id=MHP4jGMN2E)
+- [ICLR2025 Submission] [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://openreview.net/forum?id=7PQnFTbizU)
+- [ICLR2025 Submission] [Tree Search for Language Model Agents](https://openreview.net/forum?id=kpL66Mvd2a)
+- [NeurIPS 2024] [ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights](https://huggingface.co/papers/2406.14596)
 
 ### Grounding
 - [ICLR2025 Submission] [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://openreview.net/forum?id=kxnoqaisCT)
@@ -47,6 +51,7 @@ This is a collection of resources for computer-use agents, including papers and 
 - [ICLR2025 Submission] [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://openreview.net/forum?id=EEgYUccwsV)
 - [ICLR2025 Submission] [AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs](https://openreview.net/forum?id=wl4c9jvcyY)
 - [ICLR2025 Submission] [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://openreview.net/forum?id=QarKTT5brZ)
+- [NeurIPS 2024] [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://huggingface.co/papers/2409.15637)
 
 ### Evaluation
 - [ICLR2025 Submission] [AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents](https://openreview.net/forum?id=il5yUQsrjC)
@@ -54,3 +59,8 @@ This is a collection of resources for computer-use agents, including papers and 
 - [ICLR2025 Submission] [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](https://openreview.net/forum?id=t9JUTS9ADL)
 - [ICLR2025 Submission] [AgentStudio: A Toolkit for Building General Virtual Agents](https://openreview.net/forum?id=axUf8BOjnH)
 - [ICLR2025 Submission]  [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://openreview.net/forum?id=BfQNrKJMXq)
+- [NeurIPS 2024] [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://huggingface.co/papers/2407.10956)
+
+### Safety
+- [ICLR2025 Submission] [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk)
+- [Adversarial Attacks on Multimodal Agents](https://huggingface.co/papers/2406.12814)
