@@ -62,5 +62,6 @@ This is a collection of resources for computer-use agents, including papers and 
 - [NeurIPS 2024] [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://huggingface.co/papers/2407.10956)
 
 ### Safety
+- [ICLR2025 Submission] [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://openreview.net/forum?id=YixNDE12wm)
 - [ICLR2025 Submission] [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk)
 - [Adversarial Attacks on Multimodal Agents](https://huggingface.co/papers/2406.12814)
