@@ -1,6 +1,6 @@
 # Awesome Computer Use Agents
 
-This is a collection of resources for computer-use agents, including papers and blogs. The repository is currently under construction and will be continuously updated. We welcome contributions and feedback as we continue expanding this collection!
+This is a collection of resources for computer-use agents, including videos, blogs, papers, and projects. The repository is currently under construction and will be continuously updated. We welcome contributions and feedback as we continue expanding this collection!
 
 ## Table of Contents
 
@@ -26,6 +26,7 @@ This is a collection of resources for computer-use agents, including papers and 
   - [GitHub](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
   - [Doc](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 - [Simon Willison | Initial explorations of Anthropic’s new Computer Use capability](https://simonwillison.net/2024/Oct/22/computer-use/)
+- [Ethan Mollick | When you give a Claude a mouse](https://www.oneusefulthing.org/p/when-you-give-a-claude-a-mouse)
 - [Computer Use by Anthropic: A 5-Minute Setup Guide and Demo](https://glama.ai/blog/2024-10-22-automate-computer-using-claude)
 - [Automating macOS using Claude Computer Use](https://glama.ai/blog/2024-10-23-automating-macos-using-claude)
 - [Mind-Blowing Experience with Claude Computer Use](https://www.reddit.com/r/ClaudeAI/comments/1ga3uqn/mindblowing_experience_with_claude_computer_use/)
@@ -84,3 +85,4 @@ This is a collection of resources for computer-use agents, including papers and 
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
 - [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop)
+- [Claude Computer Use Demo for MacOS](https://github.com/PallavAg/claude-computer-use-macos)
