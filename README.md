@@ -4,13 +4,19 @@ This is a collection of resources for computer-use agents, including papers and 
 
 ## Table of Contents
 
+- [Videos](#videos)
 - [Blogs](#blogs)
 - [Papers](#papers)
   - [Modeling/Framework](#modelingframework)
   - [Grounding](#grounding)
   - [Agent Data](#agent-data)
   - [Evaluation](#evaluation)
+- [Projects](#projects)
 
+## Videos
+- [Claude | Computer use for automating operations](https://www.youtube.com/watch?v=ODaHJzOyVCQ)
+- [Claude | Computer use for coding](https://www.youtube.com/watch?v=vH2f7cjXjKI)
+- [Claude | Computer use for orchestrating tasks](https://www.youtube.com/watch?v=jqx18KgIzAE)
 
 ## Blogs
 - [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
@@ -19,6 +25,12 @@ This is a collection of resources for computer-use agents, including papers and 
   - [GitHub](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
   - [Doc](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 - [Initial explorations of Anthropic’s new Computer Use capability](https://simonwillison.net/2024/Oct/22/computer-use/)
+- [Computer Use by Anthropic: A 5-Minute Setup Guide and Demo](https://glama.ai/blog/2024-10-22-automate-computer-using-claude)
+- [Automating macOS using Claude Computer Use](https://glama.ai/blog/2024-10-23-automating-macos-using-claude)
+- [Mind-Blowing Experience with Claude Computer Use](https://www.reddit.com/r/ClaudeAI/comments/1ga3uqn/mindblowing_experience_with_claude_computer_use/)
+- [Instant Claude Computer Use Demo](https://labex.io/tutorials/docker-instant-claude-computer-use-demo-414899)
+- [Notes on Anthropic’s Computer Use Ability](https://composio.dev/blog/claude-computer-use/)
+- [Anthropic Computer Use: Automate Your Desktop With Claude 3.5](https://www.datacamp.com/blog/what-is-anthropic-computer-use)
 
 ## Papers
 ### Modeling/Framework
@@ -65,3 +77,8 @@ This is a collection of resources for computer-use agents, including papers and 
 - [ICLR2025 Submission] [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://openreview.net/forum?id=YixNDE12wm)
 - [ICLR2025 Submission] [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk)
 - [Adversarial Attacks on Multimodal Agents](https://huggingface.co/papers/2406.12814)
+
+## Projects
+- [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
+- [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
+- [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
