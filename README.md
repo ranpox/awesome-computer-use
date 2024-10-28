@@ -87,3 +87,7 @@ This is a collection of resources for computer-use agents, including videos, blo
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
 - [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop)
 - [Claude Computer Use Demo for MacOS](https://github.com/PallavAg/claude-computer-use-macos)
+- [Computer Use - OOTB](https://github.com/showlab/computer_use_ootb)
+- [claude-minecraft-use](https://github.com/ObservedObserver/claude-minecraft-use)
+- [Grunty](https://github.com/suitedaces/computer-agent)
+- [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer)
