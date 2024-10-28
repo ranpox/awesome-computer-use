@@ -83,3 +83,4 @@ This is a collection of resources for computer-use agents, including papers and 
 - [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
+- [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop)
