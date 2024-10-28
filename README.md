@@ -53,6 +53,7 @@ This is a collection of resources for computer-use agents, including videos, blo
 - [ICLR2025 Submission] [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://openreview.net/forum?id=7PQnFTbizU)
 - [ICLR2025 Submission] [Tree Search for Language Model Agents](https://openreview.net/forum?id=kpL66Mvd2a)
 - [NeurIPS 2024] [ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights](https://huggingface.co/papers/2406.14596)
+- [LLM Agents Workshop@ICLR 2024] [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
 
 ### Grounding
 - [ICLR2025 Submission] [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://openreview.net/forum?id=kxnoqaisCT)
@@ -61,6 +62,7 @@ This is a collection of resources for computer-use agents, including videos, blo
 - [ICLR2025 Submission] [Grounding Multimodal Large Language Model in GUI World](https://openreview.net/forum?id=M9iky9Ruhx)
 - [ICLR2025 Submission] [OmniParser for Pure Vision Based GUI Agent](https://openreview.net/forum?id=C6hUK6Q1Pi)
 - [ICLR2025 Submission] [Ferret-UI One: Mastering Universal User Interface Understanding Across Platforms](https://openreview.net/forum?id=GBfYgjOfSe)
+- [ACL 2024] [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
 ### Agent Data
 - [ICLR2025 Submission] [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://openreview.net/forum?id=EEgYUccwsV)
@@ -75,6 +77,7 @@ This is a collection of resources for computer-use agents, including videos, blo
 - [ICLR2025 Submission] [AgentStudio: A Toolkit for Building General Virtual Agents](https://openreview.net/forum?id=axUf8BOjnH)
 - [ICLR2025 Submission]  [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://openreview.net/forum?id=BfQNrKJMXq)
 - [NeurIPS 2024] [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://huggingface.co/papers/2407.10956)
+- [NeurIPS 2024] [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
 
 ### Safety
 - [ICLR2025 Submission] [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://openreview.net/forum?id=YixNDE12wm)
