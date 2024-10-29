@@ -36,6 +36,8 @@ This is a collection of resources for computer-use agents, including videos, blo
 - [Anthropic Computer Use: Automate Your Desktop With Claude 3.5](https://www.datacamp.com/blog/what-is-anthropic-computer-use)
 
 ## Papers
+Many papers here are organized and identified using a visualization tool developed by [ranpox/openreview-visualization](https://github.com/ranpox/openreview-visualization).
+
 ### Modeling/Framework
 - [ICLR2025 Submission] [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://openreview.net/forum?id=FHtHH4ulEQ)
 - [ICLR2025 Submission] [Agent Workflow Memory](https://openreview.net/forum?id=PfYg3eRrNi)
