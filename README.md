@@ -100,3 +100,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [claude-minecraft-use](https://github.com/ObservedObserver/claude-minecraft-use)
 - [Grunty](https://github.com/suitedaces/computer-agent)
 - [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer)
+- [Anthropic Computer Use (for Mac)](https://github.com/deedy/mac_computer_use)
