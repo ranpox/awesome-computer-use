@@ -86,6 +86,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [NeurIPS 2024] [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
 
 ### Safety
+- [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391)
 - [ICLR2025 Submission] [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://openreview.net/forum?id=YixNDE12wm)
 - [ICLR2025 Submission] [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk)
 - [Adversarial Attacks on Multimodal Agents](https://huggingface.co/papers/2406.12814)
