@@ -62,18 +62,18 @@ Many papers here are organized and identified using a visualization tool develop
 - [LLM Agents Workshop@ICLR 2024] [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
 
 ### Grounding
-- [ICLR2025 Submission] [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://openreview.net/forum?id=kxnoqaisCT)
-- [ICLR2025 Submission] [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://openreview.net/forum?id=n9PDaFNi8t)
-- [ICLR2025 Submission] [UI-Pro: A Hidden Recipe for Building Vision-Language Models for GUI Grounding](https://openreview.net/forum?id=5wmAfwDBoi)
-- [ICLR2025 Submission] [Grounding Multimodal Large Language Model in GUI World](https://openreview.net/forum?id=M9iky9Ruhx)
-- [ICLR2025 Submission] [OmniParser for Pure Vision Based GUI Agent](https://openreview.net/forum?id=C6hUK6Q1Pi)
-- [ICLR2025 Submission] [Ferret-UI One: Mastering Universal User Interface Understanding Across Platforms](https://openreview.net/forum?id=GBfYgjOfSe)
+- [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243)
+- [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
+- [UI-Pro: A Hidden Recipe for Building Vision-Language Models for GUI Grounding](https://openreview.net/forum?id=5wmAfwDBoi)
+- [Grounding Multimodal Large Language Model in GUI World](https://openreview.net/forum?id=M9iky9Ruhx)
+- [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203)
+- [Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms](https://arxiv.org/abs/2410.18967)
 - [ACL 2024] [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
 ### Agent Data
-- [ICLR2025 Submission] [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://openreview.net/forum?id=EEgYUccwsV)
-- [ICLR2025 Submission] [AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs](https://openreview.net/forum?id=wl4c9jvcyY)
-- [ICLR2025 Submission] [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://openreview.net/forum?id=QarKTT5brZ)
+- [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
+- [AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs](https://openreview.net/forum?id=wl4c9jvcyY)
+- [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819)
 - [NeurIPS 2024] [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://arxiv.org/abs/2409.15637)
 
 ### Evaluation
