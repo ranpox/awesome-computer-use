@@ -4,14 +4,17 @@ This is a collection of resources for computer-use agents, including videos, blo
 
 ## Table of Contents
 
-- [Videos](#videos)
-- [Blogs](#blogs)
-- [Papers](#papers)
-  - [Modeling/Framework](#modelingframework)
-  - [Grounding](#grounding)
-  - [Agent Data](#agent-data)
-  - [Evaluation](#evaluation)
-- [Projects](#projects)
+- [Awesome Computer Use Agents](#awesome-computer-use-agents)
+  - [Table of Contents](#table-of-contents)
+  - [Videos](#videos)
+  - [Blogs](#blogs)
+  - [Papers](#papers)
+    - [Modeling/Framework](#modelingframework)
+    - [Grounding](#grounding)
+    - [Agent Data](#agent-data)
+    - [Evaluation](#evaluation)
+    - [Safety](#safety)
+  - [Projects](#projects)
 
 ## Videos
 - [Claude | Computer use for automating operations](https://www.youtube.com/watch?v=ODaHJzOyVCQ)
@@ -72,6 +75,7 @@ Many papers here are organized and identified using a visualization tool develop
 
 ### Agent Data
 - [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
+- [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723)
 - [AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs](https://openreview.net/forum?id=wl4c9jvcyY)
 - [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819)
 - [NeurIPS 2024] [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://arxiv.org/abs/2409.15637)
