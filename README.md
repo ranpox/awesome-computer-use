@@ -41,7 +41,14 @@ This is a collection of resources for computer-use agents, including videos, blo
 ## Papers
 Many papers here are organized and identified using a visualization tool developed by [ranpox/openreview-visualization](https://github.com/ranpox/openreview-visualization).
 
+### Survey
+- [AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants](https://arxiv.org/abs/2501.16150)
+- [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://openreview.net/pdf/ed2f5ee6b84c3b118cb953b6e750486dbd700419.pdf)
+
 ### Modeling/Framework
+- [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
+- [Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments](https://arxiv.org/abs/2501.10893)
+- [PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World](https://arxiv.org/abs/2412.17589)
 - [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://arxiv.org/abs/2412.04454)
 - [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://openreview.net/forum?id=jR6YMxVG9i)
@@ -74,6 +81,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [ACL 2024] [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
 ### Agent Data
+- [AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents](https://arxiv.org/abs/2410.24024)
 - [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://arxiv.org/pdf/2502.11357)
 - [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
 - [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723)
@@ -91,6 +99,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [NeurIPS 2024] [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
 
 ### Safety
+- [MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control](https://arxiv.org/abs/2410.17520)
 - [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391)
 - [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187)
 - [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://arxiv.org/abs/2409.11295)
