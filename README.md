@@ -117,3 +117,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer)
 - [Anthropic Computer Use (for Mac)](https://github.com/deedy/mac_computer_use)
 - [Cybergod](https://github.com/james4ever0/agi_computer_control)
+- [Bytebot](https://github.com/bytebot-ai/bytebot)
