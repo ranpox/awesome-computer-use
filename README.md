@@ -120,3 +120,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Cybergod](https://github.com/james4ever0/agi_computer_control)
 - [Bytebot](https://github.com/bytebot-ai/bytebot)
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
+- [WebMarker](https://github.com/reidbarber/webmarker)
