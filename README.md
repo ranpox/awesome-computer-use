@@ -70,6 +70,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Tree Search for Language Model Agents](https://arxiv.org/abs/2407.01476)
 - [NeurIPS 2024] [ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights](https://arxiv.org/abs/2406.14596)
 - [LLM Agents Workshop@ICLR 2024] [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
+- [Programming with Pixels: Computer-Use Meets Software Engineering](https://arxiv.org/abs/2502.18525) 
 
 ### Grounding
 - [AAAI 2025] [Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning](https://arxiv.org/abs/2412.10840)
