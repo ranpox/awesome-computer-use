@@ -41,7 +41,14 @@ This is a collection of resources for computer-use agents, including videos, blo
 ## Papers
 Many papers here are organized and identified using a visualization tool developed by [ranpox/openreview-visualization](https://github.com/ranpox/openreview-visualization).
 
+### Survey
+- [AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants](https://arxiv.org/abs/2501.16150)
+- [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://openreview.net/pdf/ed2f5ee6b84c3b118cb953b6e750486dbd700419.pdf)
+
 ### Modeling/Framework
+- [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
+- [Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments](https://arxiv.org/abs/2501.10893)
+- [PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World](https://arxiv.org/abs/2412.17589)
 - [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://arxiv.org/abs/2412.04454)
 - [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://openreview.net/forum?id=jR6YMxVG9i)
@@ -63,8 +70,10 @@ Many papers here are organized and identified using a visualization tool develop
 - [Tree Search for Language Model Agents](https://arxiv.org/abs/2407.01476)
 - [NeurIPS 2024] [ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights](https://arxiv.org/abs/2406.14596)
 - [LLM Agents Workshop@ICLR 2024] [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
+- [Programming with Pixels: Computer-Use Meets Software Engineering](https://arxiv.org/abs/2502.18525) 
 
 ### Grounding
+- [AAAI 2025] [Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning](https://arxiv.org/abs/2412.10840)
 - [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243)
 - [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
 - [UI-Pro: A Hidden Recipe for Building Vision-Language Models for GUI Grounding](https://openreview.net/forum?id=5wmAfwDBoi)
@@ -74,6 +83,9 @@ Many papers here are organized and identified using a visualization tool develop
 - [ACL 2024] [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
 ### Agent Data
+- [Explorer: Robust Collection of Interactable GUI Elements](https://arxiv.org/abs/2504.09352)
+- [AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents](https://arxiv.org/abs/2410.24024)
+- [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://arxiv.org/pdf/2502.11357)
 - [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
 - [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723)
 - [AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs](https://openreview.net/forum?id=wl4c9jvcyY)
@@ -90,6 +102,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [NeurIPS 2024] [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
 
 ### Safety
+- [MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control](https://arxiv.org/abs/2410.17520)
 - [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391)
 - [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187)
 - [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://arxiv.org/abs/2409.11295)
@@ -106,3 +119,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Grunty](https://github.com/suitedaces/computer-agent)
 - [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer)
 - [Anthropic Computer Use (for Mac)](https://github.com/deedy/mac_computer_use)
+- [Cybergod](https://github.com/james4ever0/agi_computer_control)
+- [Bytebot](https://github.com/bytebot-ai/bytebot)
+- [UI-Act](https://github.com/TobiasNorlund/UI-Act)
+- [WebMarker](https://github.com/reidbarber/webmarker)
