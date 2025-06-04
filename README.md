@@ -9,6 +9,7 @@ This is a collection of resources for computer-use agents, including videos, blo
   - [Videos](#videos)
   - [Blogs](#blogs)
   - [Papers](#papers)
+    - [Survey](#survey)
     - [Modeling/Framework](#modelingframework)
     - [Grounding](#grounding)
     - [Agent Data](#agent-data)
@@ -73,9 +74,10 @@ Many papers here are organized and identified using a visualization tool develop
 - [Programming with Pixels: Computer-Use Meets Software Engineering](https://arxiv.org/abs/2502.18525) 
 
 ### Grounding
+- [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://arxiv.org/abs/2506.03143)
 - [AAAI 2025] [Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning](https://arxiv.org/abs/2412.10840)
 - [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243)
-- [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
+- [ICLR 2025] [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
 - [UI-Pro: A Hidden Recipe for Building Vision-Language Models for GUI Grounding](https://openreview.net/forum?id=5wmAfwDBoi)
 - [Grounding Multimodal Large Language Model in GUI World](https://openreview.net/forum?id=M9iky9Ruhx)
 - [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203)
@@ -86,13 +88,14 @@ Many papers here are organized and identified using a visualization tool develop
 - [Explorer: Robust Collection of Interactable GUI Elements](https://arxiv.org/abs/2504.09352)
 - [AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents](https://arxiv.org/abs/2410.24024)
 - [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://arxiv.org/pdf/2502.11357)
-- [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
-- [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723)
+- [ICLR 2025] [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
+- [ACL 2025] [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723)
 - [AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs](https://openreview.net/forum?id=wl4c9jvcyY)
 - [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819)
 - [NeurIPS 2024] [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://arxiv.org/abs/2409.15637)
 
 ### Evaluation
+- [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897)
 - [AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents](https://arxiv.org/abs/2405.14573)
 - [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511)
 - [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](https://arxiv.org/abs/2409.08264)
