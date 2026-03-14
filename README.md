@@ -45,6 +45,7 @@ Many papers here are organized and identified using a visualization tool develop
 ### Survey
 - [AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants](https://arxiv.org/abs/2501.16150)
 - [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://openreview.net/pdf/ed2f5ee6b84c3b118cb953b6e750486dbd700419.pdf)
+- [Computer Use Survey - A Visual Survey of Computer Use Agents](https://iclr-blogposts.github.io/2026/blog/2026/web-agent/)
 
 ### Modeling/Framework
 - [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
@@ -93,6 +94,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs](https://openreview.net/forum?id=wl4c9jvcyY)
 - [GUI-World: A GUI-oriented Dataset for Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819)
 - [NeurIPS 2024] [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://arxiv.org/abs/2409.15637)
+- [TimeWarp: Evaluating Web Agents by Revisiting the Past](https://timewarp-web.github.io/)
 
 ### Evaluation
 - [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897)
