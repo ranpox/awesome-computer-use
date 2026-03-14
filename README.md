@@ -112,6 +112,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)
 
 ## Projects
+- [LangGraph Computer Use Agent](https://github.com/Rajathbharadwaj/LangGraph-Computer-Use-Open-Source) - Open-source Computer Use Agent built with LangGraph. Docker + VNC + AI vision for controlling any computer.
 - [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
