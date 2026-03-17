@@ -127,3 +127,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
 - [WebMarker](https://github.com/reidbarber/webmarker)
 - [Cua](https://github.com/trycua/cua)
+- [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
