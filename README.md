@@ -112,6 +112,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)
 
 ## Projects
+- [ClawBox](https://github.com/coderkk1992/clawbox) - Run OpenClaw AI agent in a sandboxed Linux VM with native macOS UI. 5-minute setup, no CLI required.
 - [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
