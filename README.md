@@ -130,6 +130,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Bytebot](https://github.com/bytebot-ai/bytebot)
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
 - [WebMarker](https://github.com/reidbarber/webmarker)
+- [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [Cua](https://github.com/trycua/cua)
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
