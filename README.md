@@ -131,4 +131,5 @@ Many papers here are organized and identified using a visualization tool develop
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
 - [WebMarker](https://github.com/reidbarber/webmarker)
 - [Cua](https://github.com/trycua/cua)
+- [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
