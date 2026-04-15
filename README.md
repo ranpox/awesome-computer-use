@@ -130,7 +130,8 @@ Many papers here are organized and identified using a visualization tool develop
 - [Bytebot](https://github.com/bytebot-ai/bytebot)
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
 - [WebMarker](https://github.com/reidbarber/webmarker)
-- [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [Cua](https://github.com/trycua/cua)
+- [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
+- [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
