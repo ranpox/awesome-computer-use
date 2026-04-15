@@ -116,6 +116,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
+- [Openwork](https://github.com/accomplish-ai/openwork)
 - [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop)
 - [Claude Computer Use Demo for MacOS](https://github.com/PallavAg/claude-computer-use-macos)
 - [Computer Use - OOTB](https://github.com/showlab/computer_use_ootb)
