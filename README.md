@@ -74,6 +74,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Programming with Pixels: Computer-Use Meets Software Engineering](https://arxiv.org/abs/2502.18525) 
 
 ### Grounding
+- [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615)
 - [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://arxiv.org/abs/2506.03143)
 - [AAAI 2025] [Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning](https://arxiv.org/abs/2412.10840)
 - [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243)
@@ -103,6 +104,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184)
 - [NeurIPS 2024] [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://arxiv.org/abs/2407.10956)
 - [NeurIPS 2024] [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://huggingface.co/papers/2604.08523)
 
 ### Safety
 - [MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control](https://arxiv.org/abs/2410.17520)
@@ -112,9 +114,11 @@ Many papers here are organized and identified using a visualization tool develop
 - [Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)
 
 ## Projects
+- [ClawBox](https://github.com/coderkk1992/clawbox) - Run OpenClaw AI agent in a sandboxed Linux VM with native macOS UI. 5-minute setup, no CLI required.
 - [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
+- [Openwork](https://github.com/accomplish-ai/openwork)
 - [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop)
 - [Claude Computer Use Demo for MacOS](https://github.com/PallavAg/claude-computer-use-macos)
 - [Computer Use - OOTB](https://github.com/showlab/computer_use_ootb)
@@ -128,3 +132,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [WebMarker](https://github.com/reidbarber/webmarker)
 - [Cua](https://github.com/trycua/cua)
 - [computer agents](https://computer-agents.com)
+- [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
