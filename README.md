@@ -128,6 +128,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Anthropic Computer Use (for Mac)](https://github.com/deedy/mac_computer_use)
 - [Cybergod](https://github.com/james4ever0/agi_computer_control)
 - [Bytebot](https://github.com/bytebot-ai/bytebot)
+- [BrowserTrace](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model I/O, errors, and redacted HTML exports.
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
 - [WebMarker](https://github.com/reidbarber/webmarker)
 - [Cua](https://github.com/trycua/cua)
