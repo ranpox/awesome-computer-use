@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen and microphone recording that indexes OCR, accessibility text, and transcripts as searchable context for computer-use agents (macOS/Windows/Linux)
