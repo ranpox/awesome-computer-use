@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [DeepSight](https://github.com/Reality-Shifting-Tech/deepsight) - Device-native vision for text-only LLMs. Zero tokens, no GPU, no image data leaves the machine. 16 tools: look/OCR/zoom/locate + live screen capture + desktop automation
