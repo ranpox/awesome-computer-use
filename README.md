@@ -114,6 +114,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)
 
 ## Projects
+- [BitFun](https://github.com/GCWing/BitFun) - Open-source cross-platform desktop AI agent with computer-use support for browsers, terminals, desktop applications, filesystems, and remote workspaces.
 - [ClawBox](https://github.com/coderkk1992/clawbox) - Run OpenClaw AI agent in a sandboxed Linux VM with native macOS UI. 5-minute setup, no CLI required.
 - [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
