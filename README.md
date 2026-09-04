@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [Superagent](https://github.com/pungme/superagent-desktop) - Open-source macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring
