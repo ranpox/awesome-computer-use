@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [Moching](https://github.com/moching-ai-dev/moching) – Open-source AI desktop agent (Rust) with 219 native tools; real-time screen visual understanding + UI tree; autonomous see-act-verify loop. Windows & macOS.
