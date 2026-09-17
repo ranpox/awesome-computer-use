@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [Screen Control](https://github.com/Xeakaes/computer-use-for-all-agents) - MCP server and REST API that give agents screenshots, OCR, frame diff, mouse/keyboard control, and window management on Windows, with token auth, blocked deadly shortcuts, and a focus guard against wrong-window typing.
