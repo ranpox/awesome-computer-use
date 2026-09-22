@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [jevme](https://github.com/danielyedaniel/jevme) - Open-source voice-controlled computer-use agent for macOS: accessibility-tree actions, mid-sentence execution, and LLM results memoized into fast classifier decisions
