@@ -116,6 +116,7 @@ Many papers here are organized and identified using a visualization tool develop
 ## Projects
 - [ClawBox](https://github.com/coderkk1992/clawbox) - Run OpenClaw AI agent in a sandboxed Linux VM with native macOS UI. 5-minute setup, no CLI required.
 - [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
+- [OpenAmer](https://github.com/openamer/openamer) - Windows-native agent with background computer-use over the real desktop: files, browser (CDP), terminal and GUI. Runs fully local on Apache 2.0, keeps persistent vector memory, and routes work to peer instances over an A2A mesh (no broker).
 - [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
 - [Openwork](https://github.com/accomplish-ai/openwork)
