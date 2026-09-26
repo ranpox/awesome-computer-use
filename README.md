@@ -133,6 +133,6 @@ Many papers here are organized and identified using a visualization tool develop
 - [Cua](https://github.com/trycua/cua)
 - [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
-- [Jev Social](https://github.com/socai-io/jev-social) - Local-first Instagram and TikTok research agent where Jev chooses typed socai operations and real browser evidence streams into a cited report.
+- [Jev Social](https://github.com/socai-io/jev-social) - Read-only social research app where Jev chooses bounded Instagram, TikTok, and LinkedIn operations; the local socai CLI executes them in the user's Chrome and streams evidence into cited reports.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
