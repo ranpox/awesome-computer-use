@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [POK-Agent](https://github.com/Acekorneya/POK-Agent) - Windows computer-use agent: an LLM plans, a fast System 1 model acts on UI Automation and OCR targets, and verified runs are replayed for repeated tasks
