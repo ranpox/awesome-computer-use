@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [Auten](https://github.com/auten-ai/auten-mcp) - Cross-platform computer-use MCP server (macOS/Windows/Linux, plus Android over USB); drives the screen via the accessibility tree even in no-API apps, learns a task once then replays it deterministically with no model calls, and self-heals when the UI shifts.
