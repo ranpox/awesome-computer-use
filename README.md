@@ -38,6 +38,7 @@ This is a collection of resources for computer-use agents, including videos, blo
 - [Instant Claude Computer Use Demo](https://labex.io/tutorials/docker-instant-claude-computer-use-demo-414899)
 - [Notes on Anthropic’s Computer Use Ability](https://composio.dev/blog/claude-computer-use/)
 - [Anthropic Computer Use: Automate Your Desktop With Claude 3.5](https://www.datacamp.com/blog/what-is-anthropic-computer-use)
+- [BrowseSprint | Why is Codex browsing slow? A measurement guide](https://codexbrowse.site/codex-browser-slow)
 
 ## Papers
 Many papers here are organized and identified using a visualization tool developed by [ranpox/openreview-visualization](https://github.com/ranpox/openreview-visualization).
