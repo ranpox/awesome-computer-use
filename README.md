@@ -134,4 +134,5 @@ Many papers here are organized and identified using a visualization tool develop
 - [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
+- [kev-0.6b-browser-use](https://github.com/arbazsiddiqui/kev-browser-use) - Open 0.6B decision model for browser agents that returns which element to act on and whether to click, type or select, as probabilities in one forward pass. Runs in the browser on WebGPU.
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
