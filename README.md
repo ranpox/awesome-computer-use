@@ -133,5 +133,6 @@ Many papers here are organized and identified using a visualization tool develop
 - [Cua](https://github.com/trycua/cua)
 - [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
+- [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Vision model operates a real iPhone: sees it via AirPlay mirroring, taps via an ESP32-S3 acting as a USB mouse and keyboard. No Mac or jailbreak.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
