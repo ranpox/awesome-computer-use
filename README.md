@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [Oh My Phone Use](https://github.com/getGate/oh-my-phone-use) - MCP tools for AI agents to see and control a real iPhone or iPad through an ESP32 Bluetooth accessory, with a separate firmware mode for phone calls. Requires a Mac; no jailbreak.
