@@ -130,6 +130,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [Bytebot](https://github.com/bytebot-ai/bytebot)
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
 - [WebMarker](https://github.com/reidbarber/webmarker)
+- [rea-captcha](https://github.com/masakaai/rea-captcha) - Local verification controller for browser agents, with a TypeScript SDK and stdio MCP server. Preserves the existing browser session and requires fresh verification evidence before resuming; automated interactions are limited to official provider test modes and owned flows.
 - [Cua](https://github.com/trycua/cua)
 - [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
