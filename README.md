@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [AgentGo](https://github.com/Moha2005269/agentgo) - Chromium browser built for AI agents and driven over MCP, with compact page outlines, diff-only replies after each action, real mouse and keyboard input, and human approval for payments (Windows).
