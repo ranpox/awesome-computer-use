@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) - Local-first desktop app for personal AI bots that can use your computer (via the bundled Cua driver; macOS computer use is Beta), read and write files and run sandboxed commands, reachable from WeChat and Feishu.
