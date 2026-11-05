@@ -131,6 +131,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act)
 - [WebMarker](https://github.com/reidbarber/webmarker)
 - [Cua](https://github.com/trycua/cua)
+- [Perry](https://github.com/hridaya423/perry) - Open-source macOS notch app that reads the accessibility tree to point at the next control in any app, or clicks it when you ask
 - [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
