@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [macOS Locked Use](https://github.com/nia-teams/macos-locked-use) - Standalone lock-screen session layer for macOS Computer Use (`locked-use` CLI and `LockedUseKit` Swift library) that lets AI agents operate host windows behind a full-screen shield without storing the user's login password.
