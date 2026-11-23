@@ -120,6 +120,7 @@ Many papers here are organized and identified using a visualization tool develop
 - [OpenInterface](https://github.com/AmberSahdev/Open-Interface/)
 - [Openwork](https://github.com/accomplish-ai/openwork)
 - [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop)
+- [Cloudbrowser](https://cloudbrowser.tv/) - Hosted Chrome workspaces for computer-use agents with saved browser profiles, browser-level CDP, and Live View for human operation.
 - [Claude Computer Use Demo for MacOS](https://github.com/PallavAg/claude-computer-use-macos)
 - [Computer Use - OOTB](https://github.com/showlab/computer_use_ootb)
 - [claude-minecraft-use](https://github.com/ObservedObserver/claude-minecraft-use)
