@@ -134,4 +134,5 @@ Many papers here are organized and identified using a visualization tool develop
 - [Fazm](https://github.com/m13v/fazm) - Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
+- [53ON Harness](https://github.com/53on/53on-harness) - Windows desktop harness: the agent sees the screen, uses the mouse, the keyboard and a browser, and keeps a memory of its own across sessions. Runs with the model you bring.
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
