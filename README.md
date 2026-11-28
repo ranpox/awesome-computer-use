@@ -135,3 +135,4 @@ Many papers here are organized and identified using a visualization tool develop
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support.
 - [computer agents](https://computer-agents.com)
 - [Terminator](https://github.com/mediar-ai/terminator) - Playwright-like automation for Windows desktop apps using native accessibility APIs
+- [Sol Next](https://github.com/chongyangzhang92-hub/Sol-Next) - Open-source (Apache-2.0) System-0 autonomous Android 10–16 agent (`v0.1.0-beta`) & companion paper focused on speed and token efficiency: zero-context-bloat skill crystallization (`ΔC_prompt = 0`, `5–200 ms`, `0` tokens), seven-layer latency stack (`28.4 s → 3.82 s → 0.145 s`), Rust/ARM64 SIMD UI pruning (`-90.7%` first-run tokens), 1:1 background VirtualDisplay, BYOK (zero embedded keys), and Rust stdio MCP server.
